@@ -7,7 +7,7 @@ hello git
 hello git
 hello git
 hello git
-hello git
+hello gitmaster test
 hello git
 hello git
 hello git
